@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 import java.time.LocalDate;
 
 /**
- * Demo showing the full accounting workflow for a home renovation project.
+ * Demo showing the full accounting workflow for a home renovation project
  */
 public class AccountingDemo {
 
